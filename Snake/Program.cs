@@ -15,6 +15,8 @@ namespace Snake
 
             Point p2 = new Point(4, 5, '#');
             p2.Drow();
+
+            List<int> numList = new List<int>();
         }
     }
 }
